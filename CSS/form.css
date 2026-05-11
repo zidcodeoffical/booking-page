@@ -1,0 +1,16 @@
+
+
+/* =========================
+TOGGLE SWITCH ACTIVE STATE
+========================= */
+
+/* Green background when toggle is ON */
+.toggle-active {
+  background-color: #22c55e !important;
+}
+
+/* Move white ball to the right */
+.toggle-active .w-checkbox-input {
+  transform: translateX(15px);
+}
+
