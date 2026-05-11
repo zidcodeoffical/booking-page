@@ -6,7 +6,7 @@ TOGGLE SWITCH ACTIVE STATE
 
 /* Green background when toggle is ON */
 .toggle-active {
-  background-color: #c52222 !important;
+  background-color: #0e0a0a !important;
 }
 
 /* Move white ball to the right */
